@@ -6,4 +6,4 @@ Link test metrics [Git repo screenshot](https://github.com/armandaskalu/testare-
 
 Link Traceability Matrix [Git repo screenshot](https://github.com/armandaskalu/JIRA-manual-testing-olx.ro/blob/main/Traceability_Matrix.pdf)
 
-Link Traceability Matrix [Git repo screenshot](
+Link Traceability Matrix [Git repo screenshot](https://github.com/armandaskalu/JIRA-manual-testing-olx.ro/blob/main/Dashboard.pdf)
