@@ -4,4 +4,4 @@ Link test steps+executions+results [Git repo screenshot](https://github.com/arma
 
 Link test metrics [Git repo screenshot](https://github.com/armandaskalu/testare-manuala-olx.ro/blob/main/Test%20Metrics%20OLX.pdf)
 
-Link test metrics [Git repo screenshot](
+Link Traceability Matrix [Git repo screenshot](https://github.com/armandaskalu/JIRA-manual-testing-olx.ro/blob/main/Traceability_Matrix.pdf)
