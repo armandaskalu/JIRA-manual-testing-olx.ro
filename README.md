@@ -8,7 +8,7 @@ Tools used: Jira, Zephyr Squad
 
 The testing was made according to the following test plan:
 
-
+Link Test plan [Git repo screenshot](https://github.com/armandaskalu/JIRA-manual-testing-olx.ro/blob/main/Test_Plan.pdf)
 
 
 
