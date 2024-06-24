@@ -23,7 +23,7 @@ Link test steps+executions+results [Git repo screenshot](https://github.com/arma
 
 In the next image, it is shown the distribution of the cycle test executions and you can see that there were 2 failed tests
 
-
+![Dashboard](https://github.com/armandaskalu/JIRA-manual-testing-olx.ro/blob/main/Dashboard.pdf)
 
 Link test metrics [Git repo screenshot](https://github.com/armandaskalu/testare-manuala-olx.ro/blob/main/Test%20Metrics%20OLX.pdf)
 
