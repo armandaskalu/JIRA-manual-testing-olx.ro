@@ -21,11 +21,14 @@ In the link bellow, you can find the test steps, test executions and the results
 
 Link test steps+executions+results [Git repo screenshot](https://github.com/armandaskalu/testare-manuala-olx.ro/blob/main/OLX%20-%20Zephyr%20Test%20Steps%20%2B%20Executions%20%2B%20Results%20(Jira).pdf)
 
-In the next image, it is shown the distribution of the test executions and you can see that there were 2 failed tests
+Test cases were executed on the created test cycle summary. In the next image, it is shown the distribution of the test executions and you can see that there were 2 failed tests which means 6.6% of the total 30 performed tests.
 
 ![Dashboard](https://github.com/armandaskalu/JIRA-manual-testing-olx.ro/blob/main/Dashboard.jpg)
 
-Link test metrics [Git repo screenshot](https://github.com/armandaskalu/testare-manuala-olx.ro/blob/main/Test%20Metrics%20OLX.pdf)
+The traceability matrix was generated and can be found in the link bellow:
 
 Link Traceability Matrix [Git repo screenshot](https://github.com/armandaskalu/JIRA-manual-testing-olx.ro/blob/main/Traceability_Matrix.pdf)
 
+The next image shows thw test metrics of the testing process:
+
+Link test metrics [Git repo screenshot](https://github.com/armandaskalu/testare-manuala-olx.ro/blob/main/Test%20Metrics%20OLX.pdf)
