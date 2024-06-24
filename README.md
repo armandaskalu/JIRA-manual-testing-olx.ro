@@ -21,7 +21,7 @@ In the link bellow, you can find the test steps, test executions and the results
 
 Link test steps+executions+results [Git repo screenshot](https://github.com/armandaskalu/testare-manuala-olx.ro/blob/main/OLX%20-%20Zephyr%20Test%20Steps%20%2B%20Executions%20%2B%20Results%20(Jira).pdf)
 
-In the next image, it is shown the distribution of the cycle test executions and you can see that there were 2 failed tests
+In the next image, it is shown the distribution of the test executions and you can see that there were 2 failed tests
 
 ![Dashboard](https://github.com/armandaskalu/JIRA-manual-testing-olx.ro/blob/main/Dashboard.jpg)
 
