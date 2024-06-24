@@ -29,6 +29,6 @@ The traceability matrix was generated and can be found in the link bellow:
 
 Link Traceability Matrix [Git repo screenshot](https://github.com/armandaskalu/JIRA-manual-testing-olx.ro/blob/main/Traceability_Matrix.pdf)
 
-The next image shows thw test metrics of the testing process:
+The next image shows the test metrics of the testing process:
 
-Link test metrics [Git repo screenshot](https://github.com/armandaskalu/testare-manuala-olx.ro/blob/main/Test%20Metrics%20OLX.pdf)
+![Test metrics](https://github.com/armandaskalu/JIRA-manual-testing-olx.ro/blob/main/Test%20Metrics.jpg)
